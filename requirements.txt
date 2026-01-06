@@ -1,0 +1,5 @@
+# Dependências básicas
+airbyte-cdk>=0.41.0
+oracledb>=1.0.0
+
+# adicione outras libs se necessário
