@@ -1,8 +1,6 @@
-.dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
 .git
-.idea
-.gradle
-**/build
-**/node_modules
-Dockerfile.*
-docker-compose*.yaml
